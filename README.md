@@ -1,8 +1,8 @@
 # MacacoInfinito
 ---
-title: Macaco Infinito
-author: Filipe Sacchet Kaizer
-date: Sep 19, 2023
+title: "Macaco Infinito"
+author: "Filipe Sacchet Kaizer"
+date: "Sep 19, 2023"
 ---
 ##
 O teorema do macaco infinito foi originalmente desenvolvido em 1913 pelo matemático Émile Borel. O teorema em questão diz que se um macaco fosse colocado para digitar em um teclado infinitamente, em algum dado momento o mesmo acabaria escrevendo um texto previamente definido, como alguma obra de Shakespeare. 
