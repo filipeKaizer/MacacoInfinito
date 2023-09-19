@@ -27,7 +27,8 @@ a mesma sequencia usando a biblioteca random presente no Haskell.
 
 
 
-###
-Documentações: https://hackage.haskell.org/package/random-1.2.1.1/docs/System-Random.html
 
-###
+
+### Documentações: 
+https://hackage.haskell.org/package/random-1.2.1.1/docs/System-Random.html
+
